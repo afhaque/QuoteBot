@@ -11,11 +11,11 @@ access_token_secret = "ZyezvdsOAL9HkyuN3JMAttOJDuNvOjpJ3D8RFDup2cMTH"
 
 # Quotes to Tweet
 quote_list = [
-    "There is nothing permanent except change. - Heraclitus",
-    "You cannot shake hands with a clenched fist. - Indira Gandhi",
-    "When you reach the end of your rope, tie a knot in it and hang on. - Franklin D. Roosevelt",
-    "Learning never exhausts the mind. - Leonardo da Vinci",
-    "There is no charm equal to tenderness of heart. - Jane Austen"]
+    "asdfasdf",
+    "fasfwer",
+    "vxczvxv",
+    "Lasdfinci",
+    "Tasdfusten"]
 
 
 # Create function for tweeting
